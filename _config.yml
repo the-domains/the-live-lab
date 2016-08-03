@@ -19,5 +19,8 @@ navigation:
   - name: The Live Lab @ Audiu
     url: 'https://audiu.net/users/thelivelab'
     type: external
+  - name: The Live Lab @ Twitter
+    url: 'https://twitter.com/the_live_lab'
+    type: external
 title: Personalised Ableton Live Support
 description: Get there!
