@@ -16,5 +16,8 @@ navigation:
   - name: The Live Lab on Facebook
     url: 'https://www.facebook.com/TheLiveLab/?fref=ts'
     type: external
+  - name: The Live Lab @ Audiu
+    url: 'https://audiu.net/users/thelivelab'
+    type: external
 title: Personalised Ableton Live Support
 description: Get there!
