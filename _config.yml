@@ -6,9 +6,10 @@ color:
   saturation: 0.7885021029505879
   rhythmicContrast: 0.6803571179043502
   brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: The Live Lab
+description: Simply The Best
