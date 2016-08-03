@@ -11,6 +11,9 @@ color:
     - '#5C6B73'
     - '#253237'
 layout_spectrum: 0.5912761960644275
+author:
+  name: Mark Burnett
+  email: mark@thelivelab.com
 name: The Live Lab
 navigation:
   - name: The Live Lab @ Facebook
