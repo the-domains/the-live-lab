@@ -1,0 +1,14 @@
+layout_spectrum: 0.5912761960644275
+typography_spectrum: 0.7121935810428113
+color:
+  brandStrength: 0.9252949135843664
+  lightness: 0.2281513235066086
+  saturation: 0.7885021029505879
+  rhythmicContrast: 0.6803571179043502
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: The Live Lab
