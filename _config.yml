@@ -13,7 +13,7 @@ color:
 layout_spectrum: 0.5912761960644275
 name: The Live Lab
 navigation:
-  - name: The Live Lab on Facebook
+  - name: The Live Lab @ Facebook
     url: 'https://www.facebook.com/TheLiveLab/?fref=ts'
     type: external
   - name: The Live Lab @ Audiu
