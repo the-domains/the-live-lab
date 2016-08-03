@@ -12,5 +12,9 @@ color:
     - '#253237'
 layout_spectrum: 0.5912761960644275
 name: The Live Lab
+navigation:
+  - name: The Live Lab on Facebook
+    url: 'https://www.facebook.com/TheLiveLab/?fref=ts'
+    type: external
 title: Personalised Ableton Live Support
 description: Get there!
